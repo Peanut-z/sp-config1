@@ -2,7 +2,10 @@ package asdas;
 
 public class dasd {
 	private void teat() {
-		// TODO Auto-generated method stub
+		
+	}
+	public static void main(String[] args) {
+
 
 	}
 }
